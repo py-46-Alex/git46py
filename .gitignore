@@ -1,0 +1,9 @@
+egreg
+6565
+tmp/
+*_old
+*_backup
+Thumbs.db
+.DS_Store
+*.DS_Store
+*Thumbs.db
